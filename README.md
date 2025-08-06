@@ -21,7 +21,7 @@ Cocok untuk penggunaan offline, tidak butuh koneksi internet saat menjalankan GU
 
 ## 🖥️ Screenshot
 
-_( `screenshots/` )_
+_( `screenshots/Screenshot.png` )_
 
 ---
 
