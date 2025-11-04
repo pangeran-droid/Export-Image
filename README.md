@@ -108,8 +108,5 @@ pyinstaller --onefile --noconsole export_image.py
 
 ---
 
-## 👨‍💻 Author
-
-Script ini dibuat dengan oleh [pangeran-droid].
-
-Lisensi: MIT
+## Lisensi
+MIT
