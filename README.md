@@ -19,9 +19,15 @@ Cocok untuk penggunaan offline, tidak butuh koneksi internet saat menjalankan GU
 
 ---
 
-## 🖥️ Screenshot
+## 📸 Preview Aplikasi
 
-_( `screenshots/Screenshot.png` )_
+<p align="center">
+  <img src="screenshots/Screenshot.png">
+</p>
+
+<p align="center">
+  <i>Example Tools</i>
+</p>
 
 ---
 
